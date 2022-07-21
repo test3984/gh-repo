@@ -2,3 +2,5 @@ Just another file created in the feature-1 branch
 
 this file got modified locally
 modified in feature 2 branch
+
+another modification
