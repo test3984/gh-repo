@@ -1,1 +1,4 @@
 one more file in remote repo
+
+
+This line was edited in feature 2 branch
